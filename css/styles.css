@@ -46,6 +46,12 @@ p {
 	font-style: italic;
 }
 
+.subhead {
+	font-weight: bold;
+	font-size: 36px;
+	color: #116189
+}
+
 nav ul {
 	background-color: #D74710;
 	width: 80%;

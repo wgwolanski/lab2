@@ -25,6 +25,16 @@ p {
 	box-shadow: 2px 2px 6px #555;
 }
 
+.logo {
+	float: left;
+	padding: 10px;
+}
+
+.img-right {
+	float: right;
+	padding: 10px;
+}
+
 .name {
 	font-family: 'Boogaloo', sans-serif;
 	font-size: 36px;
